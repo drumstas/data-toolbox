@@ -9,7 +9,7 @@ Dockerized environment for prototyping, tracking and saving progress for ML expe
 1. Install `docker` and `docker-compose`.
 2. Copy this to a shared directory.
 3. If running for the first time execute `docker-compose build`, otherwise skip this step.
-4. Execute `docker-compose up` from root directory.
+4. Execute `docker-compose up -d` from root directory.
 
 ### MLFlow usage with Python:
 ```
